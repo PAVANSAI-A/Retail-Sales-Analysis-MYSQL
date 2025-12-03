@@ -194,4 +194,4 @@ Then counted total orders in each shift.
 
 ## 📌 Purpose
 
-This project highlights practical SQL analysis skills applied to a real-world retail dataset, demonstrating the ability to clean data,
+This project highlights practical SQL analysis skills applied to a real-world retail dataset.
